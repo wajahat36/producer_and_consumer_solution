@@ -29,8 +29,8 @@ Follow these steps to build and run the executable:
 Existing Binary: 
 
 An existing binary file named `main.exe` is already available for direct use without compilation.
-You can find it in the "your_path\producer_and_consumer_solution\binaries" folder.
-To run the binary, you can navigate to "your_path\producer_and_consumer_solution\binaries" and run the below command :
+You can find it in the "your_path_to_root_folder\binaries" folder.
+To run the binary, you can navigate to "your_path_to_root_folder\binaries" and run the below command :
 
 main.exe <producer_value> <buffer_size>
 
