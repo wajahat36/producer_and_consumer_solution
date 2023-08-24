@@ -1,6 +1,6 @@
 # Project: Producer and Consumer Solution
 
-This project demonstrates a producer-consumer pattern implementation using C++ threads and a ring buffer.
+This project demonstrates a producer-consumer problem implementation using C++ threads and a ring buffer.
 
 ## Compiler and C++ Standard
 
@@ -26,6 +26,14 @@ Follow these steps to build and run the executable:
 3. **Navigate to Project Directory**:
    Use the `cd` command to navigate to the directory containing your project files.
 
+Existing Binary: 
+
+An existing binary file named `main.exe` is already available for direct use without compilation.
+You can find it in the "your_path\producer_and_consumer_solution\binaries" folder.
+To run the binary, you can navigate to "your_path\producer_and_consumer_solution\binaries" and run the below command :
+
+main.exe <producer_value> <buffer_size>
+
 4. **Build the Executable**:
 Run the following command to build the executable using g++:
 
@@ -37,13 +45,7 @@ main.exe <producer_value> <buffer_size>
 main.exe 10 4 (example)
 
 
-Existing Binary: 
 
-An existing binary file named `main.exe` is already available for direct use without compilation.
-You can find it in the "your_path\producer_and_consumer_solution\binaries" folder.
-To run the binary, you can navigate to "your_path\producer_and_consumer_solution\binaries" and run the below command :
-
-main.exe <producer_value> <buffer_size>
 
 
 
