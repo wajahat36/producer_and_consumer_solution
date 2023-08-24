@@ -11,7 +11,7 @@ This project demonstrates a producer-consumer problem implementation using C++ t
 
 
 - `main.cpp`: Main program file that contains the producer and consumer threads.
-- `ring_buffer.hpp`: Header file for the ring buffer class Note: This is my own implementation of ring_buffer class.
+- `ring_buffer.hpp`: Header file for the ring buffer class. Note: This is my own implementation of ring_buffer class.
 
 ## Build and Run Instructions
 
